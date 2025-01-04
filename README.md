@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 1. Start the server:
 ```bash
-uvicorn pizza_api:app --reload
+uvicorn pizza-price-api:app --reload
 ```
 
 2. Open API documentation:
