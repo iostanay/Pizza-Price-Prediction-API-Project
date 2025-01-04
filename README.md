@@ -155,9 +155,9 @@ pydantic==2.5.2
 ```
 
 ## Author
-[Your Name]
-- GitHub: [@yourusername]
-- LinkedIn: [Your LinkedIn]
+[Tanay Bhattacharjee]
+- GitHub: [@iostanay]
+- LinkedIn: [https://www.linkedin.com/in/tanay-bhattacharjee/]
 
 ## Acknowledgments
 - FastAPI documentation
